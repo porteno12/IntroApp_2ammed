@@ -15,7 +15,7 @@ import com.example.introapp.databinding.ActivityLogInBinding;
 import com.google.android.material.snackbar.Snackbar;
 
 public class LogInActivity extends AppCompatActivity {
-    ActivityLogInBinding binding;
+    private ActivityLogInBinding binding;
     //todo - add sharedpreference (remember me checkbpx near the text-forgot)
 
     @Override
